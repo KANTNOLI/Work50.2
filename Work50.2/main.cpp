@@ -6,7 +6,7 @@ class Monitor {
 public:
 	int screen_resolution;
 	int hz;
-	int diagonal;
+	int diagonal; 
 	string manufacturer;
 	double price;
 };
